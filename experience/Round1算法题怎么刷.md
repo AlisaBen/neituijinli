@@ -47,7 +47,7 @@
 
 都给我好好读！下面👇是一个编码过程中的沟通范例，可以照猫画虎学一下
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6a05e1d82072406a8b3e34c140f09551~tplv-k3u1fbpfcp-watermark.image?)
+![image.png](https://pic4.zhimg.com/80/v2-899527f48a2c11bedb0c9397f8ef472f_1440w.jpg)
 
 *前两天有个内推的同学跟我说，面试官考察了一道树的题，卡在了输入输出上，不知道应该怎么输入一棵树 /手动狗头，这说明刷题的时候只顾背题了，没有锻炼自己的实践能力和不够灵活.这位同学回去请认真刷题*
 
