@@ -22,3 +22,9 @@
 - 2022暑期实习内推链接🔗：https://jobs.toutiao.com/s/LKsTdhY
 > **投递2022年暑期实习内推的同学，一定要填写内推码：RP5RN29**
 
+## 美团内推
+- 社招内推二维码
+![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/872328fbdf244fc28a74e90b88f84c99~tplv-k3u1fbpfcp-watermark.image?)
+- 校招内推二维码
+![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f260a66770b6419582884a1ff793dc4f~tplv-k3u1fbpfcp-watermark.image?)
+
